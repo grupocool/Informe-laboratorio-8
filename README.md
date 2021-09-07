@@ -89,7 +89,7 @@ No coinciden. Al momento de medirlo con el osciloscopio podemos observar el pico
 
 # 5. Video
 
-https://youtu.be/Iqd0vu2DdSc
+https://youtu.be/oJwZeccrtp8
 
 # 6. Conclusiones
 - El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. 
