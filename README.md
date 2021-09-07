@@ -107,9 +107,4 @@ https://youtu.be/Iqd0vu2DdSc
 
 - Strum, R. D., y J. R. Ward. Electric Circuits and Networks. 2a. ed. Englewood Cliffs, NJ: Prentice Hall, 1985.
 
-- Cogdeil, J. R. Foundations of Electric Circuits. Upper Saddle River, NJ: Prentice Hall, 1998.
-
-- Budak, A. Circuit Theory Fundamentals and Applications. 2a. ed. Englewood Cliffs, NJ: Prentice Hall, 1987.
-
-- Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill, 1994.
 
