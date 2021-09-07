@@ -19,6 +19,7 @@
 
 # 2. Marco Teórico
 
+![png (20)](https://user-images.githubusercontent.com/85137954/132279788-027a523e-3de8-4b8e-bbcc-9033bc8d5a15.png)
 
 # 3. Material y Equipo Requerido
 
