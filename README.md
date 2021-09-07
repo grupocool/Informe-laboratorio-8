@@ -16,6 +16,13 @@
 
 ## 1.2 Objetivos Específicos
 
+- Calcular los componentes de la onda senoidal y comparar con los resultados del simulador.
+
+- Conocer los instrumentos que mides estos valores (valor medio y valor eficaz). Verificar el valor de lafrecuencia.
+
+- Construir un circuito que muestre como se comporta una onda senoidal.
+
+- Obtener una visión más clara de como se interpreta una onda senoidal.
 
 # 2. Marco Teórico
 
@@ -34,9 +41,6 @@ Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
-
-
-
 
 4.4 Preguntas.
 
@@ -64,17 +68,19 @@ En 10.
 
 4.4.1 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
+
 Amplitud de voltaje: 13.69     (V)
+
 Periodo:         6.13         (s)
+
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 f:  0.163       (Hz)
+
 ω:  1.024       (rad/s)
 
-4.4.2 Con el multímetro digital mida el voltaje de salida en RL:
-
-9.7  (V) 
+4.4.2 Con el multímetro digital mida el voltaje de salida en RL: 9.7  (V) 
 
 Compare el voltaje medido en el punto 4.4.1 y el obtenido en el punto 4.4.2
 ¿Coinciden? ¿Por qué?
@@ -86,7 +92,10 @@ No coinciden. Al momento de medirlo con el osciloscopio podemos observar el pico
 https://youtu.be/Iqd0vu2DdSc
 
 # 6. Conclusiones
-
+- El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. 
+- Las características de amplitud y frecuencia son controladas mediante perillas, respetando tanto la forma de onda de las tres señales senoidales, como su amplitud simétrica con respecto a cero volts.
+- El uso del osciloscopio va a ser muy requerida, ya que gracias a este instrumento encontramos valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
+- Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
 
 # 7. Referencias
 
