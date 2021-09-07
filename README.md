@@ -35,6 +35,8 @@ una frecuencia de 2.5 Khz.
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
+![WhatsApp Image 2021-09-06 at 21 54 33](https://user-images.githubusercontent.com/85137954/132278444-c4d5b2e3-39a9-472b-8c44-d540d0f4d140.jpeg)
+
 4.4 Preguntas.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
