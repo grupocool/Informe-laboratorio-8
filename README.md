@@ -19,7 +19,6 @@
 
 # 2. Marco Teórico
 
-![png (20)](https://user-images.githubusercontent.com/85137954/132279788-027a523e-3de8-4b8e-bbcc-9033bc8d5a15.png)
 
 # 3. Material y Equipo Requerido
 
@@ -38,32 +37,49 @@ el osciloscopio.
 
 ![WhatsApp Image 2021-09-06 at 21 54 33](https://user-images.githubusercontent.com/85137954/132278444-c4d5b2e3-39a9-472b-8c44-d540d0f4d140.jpeg)
 
+
 4.4 Preguntas.
+
+El circuito armado en el simulador:
+
+![image](https://user-images.githubusercontent.com/85137954/132279535-2b2ece6f-7f11-4722-8e56-5b9298c344bd.png)
+![image](https://user-images.githubusercontent.com/85137954/132279571-85a5a81d-005a-403e-8cca-3b470f7380cb.png)
+
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+Aproximadamente 1.33 de división.
+
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
+En 10.
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+4 divisiones.
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
+0.1m 
 
 4.4.1 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
-Amplitud de voltaje:      (V)
-Periodo:                  (s)
+Amplitud de voltaje: 13.69     (V)
+Periodo:         6.13         (s)
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
-f:         (Hz)
-ω:         (rad/s)
+
+f:  0.163       (Hz)
+ω:  1.024       (rad/s)
+
 4.4.2 Con el multímetro digital mida el voltaje de salida en RL:
 
+9.7  (V) 
 
 Compare el voltaje medido en el punto 4.4.1 y el obtenido en el punto 4.4.2
 ¿Coinciden? ¿Por qué?
+
+No coinciden. Al momento de medirlo con el osciloscopio podemos observar el pico de voltaje que tiene Rl, mientras que con l multímetro nos muestra el voltaje eficaz.
 
 # 5. Video
 
